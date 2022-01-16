@@ -44,3 +44,4 @@ void bandswitch();    // Read the state of the band switches and set vfo frequen
    }; //bandswitch 
    
    Looking for comments or better solution
+
